@@ -18,7 +18,7 @@ public class LazySingleton {
                     //1、分配空间
                     //2、初始化
                     //3、赋值
-                    //没有volatile修饰时，会出现指令重排导致的异常情况
+                    //没有volatile修饰时，会出现指令重排导致的异常情况(空指针等)
                     singleton = new LazySingleton();
                 }
             }
