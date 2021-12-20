@@ -1,4 +1,4 @@
-package abstractFactory;
+package create.abstractFactory;
 
 public interface IDataBaseUtils {
     IConnection getConnection();

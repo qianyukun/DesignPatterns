@@ -1,4 +1,4 @@
-package singleton;
+package create.singleton;
 
 public class LazySingleton {
     //禁止指令重排

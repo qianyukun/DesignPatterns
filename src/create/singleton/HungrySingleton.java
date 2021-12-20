@@ -1,4 +1,4 @@
-package singleton;
+package create.singleton;
 
 /**
  * 饿汉模式

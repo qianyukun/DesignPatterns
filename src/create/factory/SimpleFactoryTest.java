@@ -1,4 +1,4 @@
-package factory;
+package create.factory;
 
 public class SimpleFactoryTest{
     public static void main(String[] args) {

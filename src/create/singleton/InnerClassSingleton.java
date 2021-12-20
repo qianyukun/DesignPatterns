@@ -1,4 +1,4 @@
-package singleton;
+package create.singleton;
 
 //step 1
 public class InnerClassSingleton {

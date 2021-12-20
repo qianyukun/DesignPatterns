@@ -1,4 +1,4 @@
-package abstractFactory;
+package create.abstractFactory;
 
 public class AbstractFactoryTest {
     public static void main(String[] args) {
